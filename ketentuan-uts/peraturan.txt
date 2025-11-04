@@ -1,0 +1,11 @@
+=====BACA!!!! SEBELUM MEMULAI ===== SOAL 1 UNTUK PASANGAN NIM GANJIL&GANJIL / NIM GENAP&GENAP ====== SOAL 2 UNTUK PASANGAN NIM MIX GANJIL&GENAP ======
+A. SOAL NO.1: https://drive.google.com/file/d/1yxUTkBSM-hJMQmHAUrzmzn0eZmy10oMJ/view?usp=sharing
+B. SOAL NO.2: https://drive.google.com/file/d/1OdreUoWDohrG-Nc2uF-nMVv3JdA-zDpc/view?usp=sharing
+
+1.	Buatlah project laravel menggunakan Herd, yang terdiri dari Home(berisi beranda), Post yg berisi postingan(soal no.2 tidak perlu) dan About (berisi tentang penulis).
+2.	Implementasikan Blade templating dan directive (layouts) kedalam project tersebut untuk efisiensi kode dan kemudahan pembacaan kode.
+3.	Kelola Route agar tidak terbebani oleh kode yang harusnya ditaruh pada controller
+4.	Inputkan data pada model dan implementasikan function count untuk menghitung jumlah data yang diinputkan, lalu gabungkan ketiga esensi Model, View dan Controller menjai satu.
+5.	Unggah file yang sudah dikerjakan pada github masing2 buat kolaborasi antara mahasiswa a dan mahasiswa b, mahasiswa a sebagai master sharing base project yang akan dikerjakan kemudian mahasiswa b membuat branch yang akan dicommit ke mahasiswa a (INI PENTING UNTUK DILIHAT SKILL KERJASAMANYA SEPERTI APA), jangan lupa untuk dibuat public repositorynya, agar bisa sy access dan cek, goodluck.
+6. unggah link githubnya saja dalam bentuk txt kesini: https://drive.google.com/drive/folders/1pUX2prX9q1keSv-VC5Bc1tMlXVgYRJgw?usp=sharing
+7. BUAT SEPERTI HALAMAN HOME, HALAMAN ABOUT DAN HALAMAN POST(SOAL NO. 1)
