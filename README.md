@@ -42,6 +42,25 @@ Project ini terdiri dari beberapa halaman utama:
 -   **Home (Beranda):** Halaman utama yang menampilkan informasi umum website
 -   **About (Tentang):** Halaman yang berisi informasi tentang penulis/pengembang
 
+## Preview Halaman
+
+### Halaman Home
+
+Halaman home menampilkan destinasi wisata dalam grid layout yang responsif dan interaktif.
+
+![Screenshot Home Part 1](public/images/ss-home-1.png)
+
+![Screenshot Home Part 2](public/images/ss-home-2.png)
+
+**Fitur Halaman Home:**
+
+-   Hero section dengan informasi pembuat
+-   Badge counter yang menampilkan total destinasi (menggunakan function count dari Model)
+-   Grid layout dengan 9 destinasi wisata
+-   Card interaktif dengan hover effect
+-   Responsive design untuk berbagai ukuran layar
+-   Background image dengan overlay untuk readability
+
 ## Ketentuan & Requirement
 
 Berdasarkan ketentuan UTS yang diberikan, project ini harus memenuhi kriteria berikut:
