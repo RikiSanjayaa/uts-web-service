@@ -117,7 +117,7 @@
             </div>
             <div class="nav-student">2301010051 - I MADE RIKI WIDIASTANA SANJAYA (GANJIL)</div>
             <div class="nav-student">2301010022 - ENDAH KOMARIYAH LESTARI (GENAP)</div>
-        </div </div>
+        </div>
     </nav>
 
     <!-- Main Content -->

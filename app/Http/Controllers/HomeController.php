@@ -3,15 +3,21 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Destination; // ✅ pakai model yang kamu buat
 use function view; // ✅ tambahkan ini agar fungsi view() dikenali
 
 class HomeController extends Controller
 {
     public function index()
     {
-        // Halaman utama (Home)
+        // ✅ Ambil data dari model Destination
+        $destinations = Destination::getAllDestinations();
+
         return view('home', [
             'judul' => 'Halaman Home',
+            'description' => 'Selamat datang di UTS Web Service 🌍',
+            'total' => Destination::countDestinations(), // ✅ pakai function count dari model
+            'destinations' => $destinations,
         ]);
     }
 
